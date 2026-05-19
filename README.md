@@ -1,4 +1,4 @@
-# AI Sales Bot (RAG Chatbot Pipeline)
+# Fast-RAG Chatbot Pipeline
 
 An intelligent Sales Bot powered by a Retrieval-Augmented Generation (RAG) pipeline. The project provides a scalable document ingestion framework, dynamic chunking, and an interactive chat interface to answer questions based on the uploaded company or product documents.
 
