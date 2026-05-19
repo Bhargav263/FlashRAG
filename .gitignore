@@ -1,0 +1,56 @@
+# Environments
+.env
+.env.local
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Frontend / Node.js
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+.npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+
+# Logs
+logs/
+*.log
+
+# Uploads & User Data
+uploads/
+*.csv
+*.pdf
+*.txt
+*.docx
+
+# Vector Database (Local Data)
+chroma_db/
+chroma.sqlite3
+qdrant_storage/
+*.bin
+
+# IDEs / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
